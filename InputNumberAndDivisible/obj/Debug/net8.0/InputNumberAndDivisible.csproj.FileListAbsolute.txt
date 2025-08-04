@@ -1,0 +1,14 @@
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\bin\Debug\net8.0\InputNumberAndDivisible.exe
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\bin\Debug\net8.0\InputNumberAndDivisible.deps.json
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\bin\Debug\net8.0\InputNumberAndDivisible.runtimeconfig.json
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\bin\Debug\net8.0\InputNumberAndDivisible.dll
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\bin\Debug\net8.0\InputNumberAndDivisible.pdb
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.AssemblyInfoInputs.cache
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.AssemblyInfo.cs
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.csproj.CoreCompileInputs.cache
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.dll
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\refint\InputNumberAndDivisible.dll
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.pdb
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\InputNumberAndDivisible.genruntimeconfig.cache
+D:\Raju\ConsoleApp1\InputNumberAndDivisible\obj\Debug\net8.0\ref\InputNumberAndDivisible.dll

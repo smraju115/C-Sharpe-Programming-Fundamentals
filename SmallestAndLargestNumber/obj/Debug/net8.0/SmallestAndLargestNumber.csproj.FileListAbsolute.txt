@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\bin\Debug\net8.0\SmallestAndLargestNumber.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\bin\Debug\net8.0\SmallestAndLargestNumber.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\bin\Debug\net8.0\SmallestAndLargestNumber.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\bin\Debug\net8.0\SmallestAndLargestNumber.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\bin\Debug\net8.0\SmallestAndLargestNumber.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\refint\SmallestAndLargestNumber.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\SmallestAndLargestNumber.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\SmallestAndLargestNumber\obj\Debug\net8.0\ref\SmallestAndLargestNumber.dll

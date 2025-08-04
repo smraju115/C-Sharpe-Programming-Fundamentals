@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\bin\Debug\net8.0\StringReverse.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\bin\Debug\net8.0\StringReverse.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\bin\Debug\net8.0\StringReverse.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\bin\Debug\net8.0\StringReverse.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\bin\Debug\net8.0\StringReverse.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\refint\StringReverse.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\StringReverse.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ReverseString\obj\Debug\net8.0\ref\StringReverse.dll

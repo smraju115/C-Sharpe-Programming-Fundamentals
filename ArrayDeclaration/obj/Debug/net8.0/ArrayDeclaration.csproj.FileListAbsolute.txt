@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\bin\Debug\net8.0\ArrayDeclaration.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\bin\Debug\net8.0\ArrayDeclaration.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\bin\Debug\net8.0\ArrayDeclaration.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\bin\Debug\net8.0\ArrayDeclaration.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\bin\Debug\net8.0\ArrayDeclaration.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\refint\ArrayDeclaration.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ArrayDeclaration.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ArrayDeclaration\obj\Debug\net8.0\ref\ArrayDeclaration.dll

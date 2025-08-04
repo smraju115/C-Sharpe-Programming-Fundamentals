@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\bin\Debug\net8.0\NumberPattern.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\bin\Debug\net8.0\NumberPattern.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\bin\Debug\net8.0\NumberPattern.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\bin\Debug\net8.0\NumberPattern.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\bin\Debug\net8.0\NumberPattern.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\refint\NumberPattern.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\NumberPattern.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\NumberPattern\obj\Debug\net8.0\ref\NumberPattern.dll

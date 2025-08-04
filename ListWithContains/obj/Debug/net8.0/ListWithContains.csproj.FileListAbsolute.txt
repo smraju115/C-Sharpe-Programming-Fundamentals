@@ -1,0 +1,14 @@
+D:\Raju\ConsoleApp1\ListWithContains\bin\Debug\net8.0\ListWithContains.exe
+D:\Raju\ConsoleApp1\ListWithContains\bin\Debug\net8.0\ListWithContains.deps.json
+D:\Raju\ConsoleApp1\ListWithContains\bin\Debug\net8.0\ListWithContains.runtimeconfig.json
+D:\Raju\ConsoleApp1\ListWithContains\bin\Debug\net8.0\ListWithContains.dll
+D:\Raju\ConsoleApp1\ListWithContains\bin\Debug\net8.0\ListWithContains.pdb
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.AssemblyInfoInputs.cache
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.AssemblyInfo.cs
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.csproj.CoreCompileInputs.cache
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.dll
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\refint\ListWithContains.dll
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.pdb
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ListWithContains.genruntimeconfig.cache
+D:\Raju\ConsoleApp1\ListWithContains\obj\Debug\net8.0\ref\ListWithContains.dll

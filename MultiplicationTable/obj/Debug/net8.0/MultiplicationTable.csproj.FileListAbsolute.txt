@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll

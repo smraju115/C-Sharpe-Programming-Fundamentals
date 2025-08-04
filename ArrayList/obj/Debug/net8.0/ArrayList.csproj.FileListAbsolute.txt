@@ -1,0 +1,14 @@
+D:\Raju\ConsoleApp1\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Raju\ConsoleApp1\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Raju\ConsoleApp1\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Raju\ConsoleApp1\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Raju\ConsoleApp1\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Raju\ConsoleApp1\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\bin\Debug\net8.0\FindMaxAndMinArray.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\bin\Debug\net8.0\FindMaxAndMinArray.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\bin\Debug\net8.0\FindMaxAndMinArray.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\bin\Debug\net8.0\FindMaxAndMinArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\bin\Debug\net8.0\FindMaxAndMinArray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\refint\FindMaxAndMinArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\FindMaxAndMinArray.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\FindMaxAndMinArray\obj\Debug\net8.0\ref\FindMaxAndMinArray.dll

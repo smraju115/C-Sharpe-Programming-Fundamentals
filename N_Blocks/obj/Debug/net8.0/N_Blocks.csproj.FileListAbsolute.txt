@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\bin\Debug\net8.0\N_Blocks.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\bin\Debug\net8.0\N_Blocks.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\bin\Debug\net8.0\N_Blocks.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\bin\Debug\net8.0\N_Blocks.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\bin\Debug\net8.0\N_Blocks.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\refint\N_Blocks.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\N_Blocks.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\N_Blocks\obj\Debug\net8.0\ref\N_Blocks.dll

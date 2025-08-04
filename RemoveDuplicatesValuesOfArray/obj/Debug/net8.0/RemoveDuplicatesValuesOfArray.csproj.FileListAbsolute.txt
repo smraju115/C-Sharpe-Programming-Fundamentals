@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\bin\Debug\net8.0\RemoveDuplicatesValuesOfArray.exe
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\bin\Debug\net8.0\RemoveDuplicatesValuesOfArray.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\bin\Debug\net8.0\RemoveDuplicatesValuesOfArray.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\bin\Debug\net8.0\RemoveDuplicatesValuesOfArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\bin\Debug\net8.0\RemoveDuplicatesValuesOfArray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\refint\RemoveDuplicatesValuesOfArray.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\RemoveDuplicatesValuesOfArray.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\RemoveDuplicatesValuesOfArray\obj\Debug\net8.0\ref\RemoveDuplicatesValuesOfArray.dll
