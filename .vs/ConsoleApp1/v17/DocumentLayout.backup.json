@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Raju\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{216EA6D1-88BC-466A-93CD-5E5D3C10D533}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\raju\\consoleapp1\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216EA6D1-88BC-466A-93CD-5E5D3C10D533}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF2C27AB-F044-4716-A818-9E594462C1AC}|MargedTwoListWithRemoveDuplicates\\MargedTwoListWithRemoveDuplicates.csproj|d:\\raju\\consoleapp1\\margedtwolistwithremoveduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF2C27AB-F044-4716-A818-9E594462C1AC}|MargedTwoListWithRemoveDuplicates\\MargedTwoListWithRemoveDuplicates.csproj|solutionrelative:margedtwolistwithremoveduplicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Raju\\ConsoleApp1\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T06:18:22.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\InputNumberAndDivisible\\Program.cs",
               "RelativeDocumentMoniker": "InputNumberAndDivisible\\Program.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "InputNumberAndDivisible\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T04:13:13.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T04:13:13.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\ListWithContains\\Program.cs",
               "RelativeDocumentMoniker": "ListWithContains\\Program.cs",
@@ -59,20 +75,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\MargedTwoListWithRemoveDuplicates\\Program.cs",
               "RelativeDocumentMoniker": "MargedTwoListWithRemoveDuplicates\\Program.cs",
               "ToolTip": "D:\\Raju\\ConsoleApp1\\MargedTwoListWithRemoveDuplicates\\Program.cs",
               "RelativeToolTip": "MargedTwoListWithRemoveDuplicates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T04:05:03.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\ArrayList\\Program.cs",
               "RelativeDocumentMoniker": "ArrayList\\Program.cs",
@@ -80,12 +96,11 @@
               "RelativeToolTip": "ArrayList\\Program.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAYwEIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T03:41:07.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T03:41:07.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Raju\\ConsoleApp1\\Array2\\Program.cs",
               "RelativeDocumentMoniker": "Array2\\Program.cs",

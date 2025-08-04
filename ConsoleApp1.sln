@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListWithContains", "ListWit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputNumberAndDivisible", "InputNumberAndDivisible\InputNumberAndDivisible.csproj", "{99833E22-3281-4E37-A233-DFDA8336B976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementSystem", "EmployeeManagementSystem\EmployeeManagementSystem.csproj", "{216EA6D1-88BC-466A-93CD-5E5D3C10D533}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{99833E22-3281-4E37-A233-DFDA8336B976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99833E22-3281-4E37-A233-DFDA8336B976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99833E22-3281-4E37-A233-DFDA8336B976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216EA6D1-88BC-466A-93CD-5E5D3C10D533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216EA6D1-88BC-466A-93CD-5E5D3C10D533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216EA6D1-88BC-466A-93CD-5E5D3C10D533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216EA6D1-88BC-466A-93CD-5E5D3C10D533}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

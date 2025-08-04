@@ -1,0 +1,15 @@
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.exe
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.deps.json
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.runtimeconfig.json
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.dll
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\bin\Debug\net8.0\EmployeeManagementSystem.pdb
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.AssemblyInfo.cs
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.dll
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\refint\EmployeeManagementSystem.dll
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
+D:\Raju\ConsoleApp1\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
